@@ -1,12 +1,8 @@
-# Vite SSR Boilerplate with Fastify
-
-This repository provides a boilerplate for building server-side rendered (SSR) applications using **Vite** and **Fastify**.
+# GWjun-Dev
 
 </br>
 
-## Installation
-
-Clone the repository and install the dependencies:
+## 설치
 
 ```bash
 pnpm install
@@ -14,7 +10,7 @@ pnpm install
 
 </br>
 
-## Run
+## 실행
 
 - **Development:**
 
@@ -22,27 +18,21 @@ pnpm install
   pnpm dev
   ```
 
-  Starts the development server using vite-node.
-
 - **Production Build:**
 
   ```bash
   pnpm build
   ```
 
-  Generates the client and server builds for production.
-
-- **Start Production Server:**
+- **Production Server:**
 
   ```bash
   pnpm start
   ```
 
-  Builds the application and starts the server in production mode.
-
 </br>
 
-## Structure
+## 구조
 
 ```
 ├── dist/                # Production build output
